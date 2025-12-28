@@ -478,7 +478,7 @@
         "id": "DNeGvqXuw44o",
         "outputId": "80a277f7-32ad-4636-f3c2-d82336c46c18"
       },
-      "execution_count": null,
+     
       "outputs": [
         {
           "output_type": "stream",
@@ -525,7 +525,7 @@
       "metadata": {
         "id": "Wtt3UjvKw9qy"
       },
-      "execution_count": null,
+      
       "outputs": []
     }
   ]
