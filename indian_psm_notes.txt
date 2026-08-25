@@ -1,0 +1,25 @@
+### High-Yield Indian PSM & Public Health Notes (Tailored to Exam Patterns)
+
+**1. Health Committees & Policies in India**
+* **High Level Expert Group (HLEG) on Universal Health Coverage (2011):** Recommended a 3-year (or 3.5-year) Bachelor of Science (B.Sc.) degree in Community Health.
+* **Srivastava Committee (1975):** Recommended the creation of rural health workers, Health Assistants, and a 3-tier system of healthcare delivery.
+
+**2. National Health Surveys & Demography**
+* **District Level Household and Facility Survey (DLHS):** Primary survey for recent trends of immunization in the community at the district level.
+* **Infant Mortality Rate (IMR):** Ratio of deaths under 1 year of age to total live births, per 1000 live births per year.
+
+**3. Vaccines & Immunization**
+* **Mw Vaccine:** Prepared from Mycobacterium indicus pranii. Used as an immunotherapeutic agent for leprosy, TB, and warts.
+* **Tuberculin Test (Mantoux Test):** High failure (false positives) in populations with a high percentage of previously immunized people (widespread BCG).
+* **Vaccine Vial Monitor (VVM):** A heat-sensitive label on vaccine vials to determine sensitivity to heat.
+* **Hepatitis B in Pregnancy:** For HBsAg positive mothers, administer both Hepatitis B vaccine and Hepatitis B Immunoglobulin (HBIG) to the newborn within 12 hours.
+* **23-Valent Pneumococcal Polysaccharide Vaccine (PPSV23):** Most useful in adults >65, patients with asplenia (sickle cell), and chronic diseases.
+
+**4. Malaria (Epidemiology & National Programs)**
+* **Malaria Control Definition:** Reducing incidence, prevalence, morbidity, or mortality to a locally acceptable level.
+* **Plasmodium vivax Relapse:** Caused by dormant liver stages called hypnozoites.
+* **Treatment of P. falciparum in North-Eastern States:** Artemisinin-based Combination Therapy (ACT), specifically Artemether-Lumefantrine (AL).
+
+**5. Biostatistics & Screening**
+* **Sample Size Calculation:** For 50% expected prevalence and absolute precision range 45%-55% (95% CI), minimum sample size = 400.
+* **Prenatal Screening (Down Syndrome):** For a woman at 17 weeks wanting definitive diagnosis, advise Amniocentesis.
